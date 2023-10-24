@@ -46,9 +46,12 @@ Hello! I'm a Junior Front-End Developer with expertise in HTML, CSS, JavaScript,
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="Stack Overflow logo" title="Gmail" height="25" />](mailto:aldoprianandii@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:aldoprianandii@gmail.com)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/aldoprianandi)
+[<img src="https://img.shields.io/badge/Website-000000?style=flat&for-the-badge&logo=About.me&logoColor=white" alt="Website logo" title="Website" height="25" />](https://aldoprianandi.github.io/)
+&nbsp;
+
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
