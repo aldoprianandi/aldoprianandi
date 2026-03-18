@@ -1,0 +1,26 @@
+<svg width="1280" height="150" viewBox="0 0 1280 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Aldo Prianandi light profile strip</title>
+  <desc id="desc">Three connected cards labeled Build, Simplify, Ship on a light background.</desc>
+  <rect width="1280" height="150" rx="24" fill="#F8FAFC"/>
+  <rect x="1" y="1" width="1278" height="148" rx="23" stroke="#E2E8F0"/>
+
+  <rect x="36" y="28" width="368" height="94" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <rect x="456" y="28" width="368" height="94" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <rect x="876" y="28" width="368" height="94" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+
+  <path d="M404 75H456" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M824 75H876" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <circle cx="78" cy="56" r="10" fill="#2563EB"/>
+  <circle cx="498" cy="56" r="10" fill="#F97316"/>
+  <circle cx="918" cy="56" r="10" fill="#22C55E"/>
+
+  <text x="102" y="62" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Build</text>
+  <text x="102" y="90" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="15">Tools that solve an actual task.</text>
+
+  <text x="522" y="62" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Simplify</text>
+  <text x="522" y="90" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="15">Reduce friction and remove extra steps.</text>
+
+  <text x="942" y="62" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Ship</text>
+  <text x="942" y="90" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="15">Keep the flow clear enough to operate.</text>
+</svg>

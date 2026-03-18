@@ -1,0 +1,54 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Aldo Prianandi light profile hero</title>
+  <desc id="desc">Light themed GitHub profile hero with clean grid, subtle accent shapes, and text about automation and systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="48" y1="36" x2="1248" y2="324" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+    <linearGradient id="accentA" x1="862" y1="18" x2="1137" y2="151" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="accentB" x1="900" y1="207" x2="1115" y2="313" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#CBD5E1" stroke-opacity="0.45" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1232" height="312" rx="22" fill="url(#grid)" opacity="0.5"/>
+  <rect x="24" y="24" width="1232" height="312" rx="22" stroke="#CBD5E1" stroke-opacity="0.7"/>
+
+  <circle cx="1035" cy="95" r="96" fill="url(#accentA)" opacity="0.16"/>
+  <circle cx="995" cy="263" r="78" fill="url(#accentB)" opacity="0.18"/>
+  <rect x="866" y="58" width="246" height="178" rx="24" fill="#FFFFFF" fill-opacity="0.58" stroke="#FFFFFF" stroke-opacity="0.8"/>
+  <rect x="927" y="206" width="190" height="92" rx="18" fill="#0F172A" fill-opacity="0.9"/>
+
+  <rect x="74" y="66" width="132" height="34" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="140" y="88" text-anchor="middle" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">GITHUB PROFILE</text>
+
+  <text x="74" y="152" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Aldo Prianandi</text>
+  <text x="74" y="194" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400">Automation systems, internal tools, and practical interfaces.</text>
+  <text x="74" y="238" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">Focused on reducing friction, simplifying workflows, and building tools that are clear to use.</text>
+
+  <rect x="74" y="268" width="142" height="34" rx="17" fill="#0F172A"/>
+  <text x="145" y="290" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">AUTOMATION</text>
+  <rect x="230" y="268" width="110" height="34" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="285" y="290" text-anchor="middle" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">SYSTEMS</text>
+  <rect x="354" y="268" width="118" height="34" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="413" y="290" text-anchor="middle" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">FRONTEND</text>
+
+  <text x="899" y="108" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">CURRENT SIGNAL</text>
+  <text x="899" y="140" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="14">Build useful things.</text>
+  <text x="899" y="166" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="14">Keep them operable.</text>
+  <text x="899" y="192" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="14">Cut unnecessary steps.</text>
+
+  <text x="958" y="242" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">WORKFLOW</text>
+  <text x="958" y="265" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="13">design</text>
+  <text x="1040" y="265" fill="#FCA5A5" font-family="Arial, Helvetica, sans-serif" font-size="13">execute</text>
+  <text x="983" y="286" fill="#86EFAC" font-family="Arial, Helvetica, sans-serif" font-size="13">refine</text>
+</svg>
