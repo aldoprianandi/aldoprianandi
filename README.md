@@ -1,25 +1,26 @@
 # Aldo Prianandi
 
-I build practical tools around messy workflows: browser automation, internal utilities, content operations, and AI-assisted systems.
+AI content systems builder, browser automation operator, and practical workflow toolmaker from Indonesia.
 
-I work best when the goal is not code for code's sake, but making a repeated process faster, clearer, and easier to run.
+I build around repeated work: content production loops, browser-heavy operations, internal utilities, and AI-assisted workflows that need to run more than once.
 
-[Email](mailto:aldoprianandii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aldoprianandi) · [Website](https://aldoprianandi.github.io/) · [Cinethetic](https://github.com/aldoprianandi/cinethetic)
+[Website](https://aldoprianandi.github.io/) · [Cinethetic](https://github.com/aldoprianandi/cinethetic) · [LinkedIn](https://www.linkedin.com/in/aldoprianandi) · [Email](mailto:aldoprianandii@gmail.com)
 
 ## Focus
 
-- AI-assisted workflow automation
-- browser-driven operations
-- internal tools and small dashboards
-- content and media production pipelines
+- AI content production systems
+- browser automation for web and AI-tool workflows
+- internal tools, renderers, and small dashboards
+- short-form media pipelines
 - public-safe packaging of private workflow ideas
 
 ## How I Work
 
 - Start from the real task, not the imagined architecture.
-- Use AI heavily, then verify behavior with checks, docs, and actual output.
-- Keep interfaces plain enough that the next run is obvious.
+- Use AI, scripts, and browser tooling as leverage, then verify with checks, docs, and actual output.
+- Keep interfaces plain enough that the next run is easy.
 - Prefer small tools people actually use over large systems nobody wants to maintain.
+- Publish cleaned examples, not private operating engines.
 
 ## Public Work
 
@@ -27,10 +28,18 @@ I work best when the goal is not code for code's sake, but making a repeated pro
 
 Programmable social carousel renderer built with Remotion, React, and TypeScript. It turns structured JSON content into reusable themed carousel slides for editorial posts, product explainers, launch notes, and repeatable social content.
 
+**[Bolakokgitu](https://bolakokgitu.com)**
+
+Football media/content brand with a 400K+ cross-platform audience. I use it as outcome proof for content systems, publishing rhythm, and audience testing. The operating workflow behind it stays private.
+
+## Background
+
+I previously worked at Dihardja Software Solutions through an internship-to-web-developer path, touching backend services, databases, deployment workflows, and product-facing implementation work.
+
 ## Tools
 
-TypeScript, React, Remotion, JavaScript, Node.js, Bun, Python, Hono, Playwright, GitHub Actions, Git.
+TypeScript, React, Remotion, JavaScript, Node.js, Bun, Python, Hono, PHP/Yii2, PostgreSQL, Supabase, Playwright, GitHub Actions, Google Cloud, AWS, Git.
 
 ## Note
 
-This profile only shows sanitized public work. A lot of my practical work lives in internal tools, private workflows, content operations, and company or client contexts that are not represented here.
+This profile only shows sanitized public work. A lot of my practical work lives in internal tools, private workflows, content operations, and company/client contexts that are not represented here.
