@@ -13,7 +13,7 @@
 
 ## About
 
-I build automation systems, internal tools, and practical interfaces.
+I build AI-assisted automation systems, internal tools, and practical interfaces.
 
 My preference is straightforward: remove friction, simplify the workflow, and make the tool feel clear to operate.
 
@@ -22,13 +22,13 @@ My preference is straightforward: remove friction, simplify the workflow, and ma
     <td valign="top" width="50%">
       <strong>Focus</strong>
       <br /><br />
-      browser automation
+      AI-native workflows
       <br />
-      workflow design
+      browser automation
       <br />
       internal tooling
       <br />
-      frontend implementation
+      programmable creative systems
     </td>
     <td valign="top" width="50%">
       <strong>Principles</strong>
@@ -66,12 +66,26 @@ My preference is straightforward: remove friction, simplify the workflow, and ma
   </tr>
 </table>
 
+## Featured Project
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/aldoprianandi/cinethetic">Cinethetic</a></strong>
+      <br /><br />
+      Programmable social carousel renderer built with Remotion, React, and TypeScript. It turns structured JSON content into reusable themed carousel slides for editorial posts, product explainers, launch notes, and repeatable social content.
+      <br /><br />
+      <sub>Remotion · React · TypeScript · JSON-driven content · reusable themes · GitHub Actions CI</sub>
+    </td>
+  </tr>
+</table>
+
 ## Right Now
 
 ```text
-building   automation systems that cut repetitive work
-shaping    tools and flows that stay clear under real usage
-improving  reliability, UX, and end-to-end execution
+building   AI-assisted systems that cut repetitive work
+shaping    practical tools and flows that stay clear under real usage
+improving  reliability, UX, and repeatable execution
 ```
 
 <p align="center">
@@ -82,14 +96,14 @@ improving  reliability, UX, and end-to-end execution
 ## Stack
 
 <p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111">
+  <img alt="Remotion" src="https://img.shields.io/badge/Remotion-000000?style=flat-square&logo=remotion&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img alt="Bun" src="https://img.shields.io/badge/Bun-111111?style=flat-square&logo=bun&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
