@@ -26,7 +26,7 @@ I build around repeated work: content production loops, browser-heavy operations
 
 **[Cinethetic](https://github.com/aldoprianandi/cinethetic)**
 
-Programmable social carousel renderer built with Remotion, React, and TypeScript. It turns structured JSON content into reusable themed carousel slides for editorial posts, product explainers, launch notes, and repeatable social content.
+Small public Remotion, React, and TypeScript project for turning structured JSON content into reusable carousel-style visuals.
 
 **[Bolakokgitu](https://bolakokgitu.com)**
 
